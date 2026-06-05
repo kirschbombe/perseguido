@@ -1,0 +1,84 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/collection.json",
+  "type": "Collection",
+  "label": {
+    "none": [
+      "El Perseguido (El): Voz de los explotados — Volumes"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-1.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Perseguido, Año 1 (1890)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-2.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Perseguido, Año 2 (1891)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-3.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Perseguido, Año 3 (1892)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-4.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Perseguido, Año 4 (1893)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Perseguido, Año 5 (1894)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-6.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Perseguido, Año 6 (1895)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-7.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Perseguido, Año 7 (1896)"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-8.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Perseguido, Año 8 (1897)"
+        ]
+      }
+    }
+  ]
+}

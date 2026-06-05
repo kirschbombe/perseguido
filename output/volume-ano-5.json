@@ -1,0 +1,1170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "El Perseguido, Año 5 (1894)"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date range"
+        ]
+      },
+      "value": {
+        "en": [
+          "1894-05-31 / 1894-12-12"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Genre"
+        ]
+      },
+      "value": {
+        "en": [
+          "newspapers"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "Public domain"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Note"
+        ]
+      },
+      "value": {
+        "en": [
+          "This is a test note. Issue dates are derived from publication records and may be approximate where original issues lack explicit date information."
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-rfch",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 70, p. 1"
+        ]
+      },
+      "height": 6384,
+      "width": 4448,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz2q/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-rfch/anno-page-u30o",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-jyr6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz2q/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz2q",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-rfch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-3yp7",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 70, p. 2"
+        ]
+      },
+      "height": 6336,
+      "width": 4448,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz37/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-3yp7/anno-page-f8dw",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-4kdd",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz37/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz37",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-3yp7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-icj5",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 70, p. 3"
+        ]
+      },
+      "height": 6408,
+      "width": 4448,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz4r/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-icj5/anno-page-pukn",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-2vbe",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz4r/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz4r",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-icj5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-y94h",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 70, p. 4"
+        ]
+      },
+      "height": 6408,
+      "width": 4432,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz58/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-y94h/anno-page-ww4p",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-hg2b",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz58/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz58",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-y94h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-2a7y",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 71, p. 1"
+        ]
+      },
+      "height": 6008,
+      "width": 4376,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz79/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-2a7y/anno-page-j6gw",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-rycv",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz79/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz79",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-2a7y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 71, p. 2"
+        ]
+      },
+      "height": 6008,
+      "width": 4376,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz8t/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59/anno-page-cp1k",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-zs8h",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz8t/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz8t",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-5qtb",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 71, p. 3"
+        ]
+      },
+      "height": 6040,
+      "width": 4448,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz9b/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-5qtb/anno-page-icj5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-ifa1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz9b/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tz9b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-5qtb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-re1n",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 71, p. 4"
+        ]
+      },
+      "height": 5992,
+      "width": 4384,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzbv/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-re1n/anno-page-d949",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-bq9u",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzbv/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzbv",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-re1n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-momm",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 72, p. 1"
+        ]
+      },
+      "height": 5992,
+      "width": 4424,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzdw/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-momm/anno-page-6jg4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-eypa",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzdw/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzdw",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-momm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-f2ju",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 72, p. 2"
+        ]
+      },
+      "height": 5936,
+      "width": 4480,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzfd/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-f2ju/anno-page-pukn",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-re1n",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzfd/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzfd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-f2ju"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-9rp8",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 72, p. 3"
+        ]
+      },
+      "height": 5952,
+      "width": 4360,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzgx/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-9rp8/anno-page-hfwo",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-c4b3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzgx/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzgx",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-9rp8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-enci",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 72, p. 4"
+        ]
+      },
+      "height": 5984,
+      "width": 4392,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzhf/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-enci/anno-page-f8x7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-2iqt",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzhf/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzhf",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-enci"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-n48s",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 73, p. 1"
+        ]
+      },
+      "height": 6024,
+      "width": 4400,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzkg/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-n48s/anno-page-esh7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-y5p9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzkg/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzkg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-n48s"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-48q9",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 73, p. 2"
+        ]
+      },
+      "height": 5992,
+      "width": 4440,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzm0/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-48q9/anno-page-83gv",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-2a7y",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzm0/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzm0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-48q9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-eypa",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 73, p. 3"
+        ]
+      },
+      "height": 6008,
+      "width": 4504,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tznh/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-eypa/anno-page-yx39",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-cumf",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tznh/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tznh",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-eypa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 73, p. 4"
+        ]
+      },
+      "height": 6008,
+      "width": 4416,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzp1/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59/anno-page-v0my",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/annotations/anno-vbo0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzp1/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tzp1",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Año 5 (1894)"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70",
+          "type": "Range",
+          "label": {
+            "en": [
+              "número 70, 31 mayo 1894"
+            ]
+          },
+          "metadata": [
+            {
+              "label": {
+                "en": [
+                  "Date"
+                ]
+              },
+              "value": {
+                "en": [
+                  "1894-05-31"
+                ]
+              }
+            },
+            {
+              "label": {
+                "en": [
+                  "Issue number"
+                ]
+              },
+              "value": {
+                "en": [
+                  "70"
+                ]
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-1",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 1"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-rfch",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-2",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 2"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-3yp7",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-3",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 3"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-icj5",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-4",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 4"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-y94h",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71",
+          "type": "Range",
+          "label": {
+            "en": [
+              "número 71, 11 noviembre 1894"
+            ]
+          },
+          "metadata": [
+            {
+              "label": {
+                "en": [
+                  "Date"
+                ]
+              },
+              "value": {
+                "en": [
+                  "1894-11-11"
+                ]
+              }
+            },
+            {
+              "label": {
+                "en": [
+                  "Issue number"
+                ]
+              },
+              "value": {
+                "en": [
+                  "71"
+                ]
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-1",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 1"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-2a7y",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-2",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 2"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-3",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 3"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-5qtb",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-4",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 4"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-re1n",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72",
+          "type": "Range",
+          "label": {
+            "en": [
+              "número 72, 22 noviembre 1894"
+            ]
+          },
+          "metadata": [
+            {
+              "label": {
+                "en": [
+                  "Date"
+                ]
+              },
+              "value": {
+                "en": [
+                  "1894-11-22"
+                ]
+              }
+            },
+            {
+              "label": {
+                "en": [
+                  "Issue number"
+                ]
+              },
+              "value": {
+                "en": [
+                  "72"
+                ]
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-1",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 1"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-momm",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-2",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 2"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-f2ju",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-3",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 3"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-9rp8",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-4",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 4"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-enci",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73",
+          "type": "Range",
+          "label": {
+            "en": [
+              "número 73, 12 diciembre 1894"
+            ]
+          },
+          "metadata": [
+            {
+              "label": {
+                "en": [
+                  "Date"
+                ]
+              },
+              "value": {
+                "en": [
+                  "1894-12-12"
+                ]
+              }
+            },
+            {
+              "label": {
+                "en": [
+                  "Issue number"
+                ]
+              },
+              "value": {
+                "en": [
+                  "73"
+                ]
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-1",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 1"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-n48s",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-2",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 2"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-48q9",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-3",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 3"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-eypa",
+                  "type": "Canvas"
+                }
+              ]
+            },
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-4",
+              "type": "Range",
+              "label": {
+                "en": [
+                  "p. 4"
+                ]
+              },
+              "items": [
+                {
+                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59",
+                  "type": "Canvas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
