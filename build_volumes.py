@@ -110,8 +110,9 @@ def build_ranges_for_issues(issues, vol_id, vol_key_str):
         page_ranges = []
         canvases = []
         for page_num, canvas in enumerate(manifest.get("items", []), 1):
+            # Update label only — preserve original canvas IDs (which contain the
+            # issue ARK and are globally unique across all issues)
             canvas["label"] = {"none": [f"{issue_label}, p. {page_num}"]}
-            canvas = json.loads(json.dumps(canvas).replace(old_base, vol_id))
             canvases.append(canvas)
 
             page_range = {

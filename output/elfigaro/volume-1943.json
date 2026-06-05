@@ -12,7 +12,7 @@
   ],
   "items": [
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-kto3",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-kto3",
       "type": "Canvas",
       "label": {
         "none": [
@@ -30,11 +30,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-kto3/anno-page-n9fn",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-kto3/anno-page-n9fn",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-0un4",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-0un4",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -49,14 +49,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-kto3"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-kto3"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-vozq",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-vozq",
       "type": "Canvas",
       "label": {
         "none": [
@@ -74,11 +74,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-vozq/anno-page-8sre",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-vozq/anno-page-8sre",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-3rof",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-3rof",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -93,14 +93,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-vozq"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-vozq"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-xrgi",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-xrgi",
       "type": "Canvas",
       "label": {
         "none": [
@@ -118,11 +118,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-xrgi/anno-page-rv20",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-xrgi/anno-page-rv20",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-acap",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-acap",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -137,14 +137,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-xrgi"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-xrgi"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qqto",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qqto",
       "type": "Canvas",
       "label": {
         "none": [
@@ -162,11 +162,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qqto/anno-page-93vw",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qqto/anno-page-93vw",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-5ikx",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-5ikx",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -181,14 +181,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qqto"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qqto"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-77bu",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-77bu",
       "type": "Canvas",
       "label": {
         "none": [
@@ -206,11 +206,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-77bu/anno-page-j6wg",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-77bu/anno-page-j6wg",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-t6c1",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-t6c1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -225,14 +225,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-77bu"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-77bu"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-a0pa",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-a0pa",
       "type": "Canvas",
       "label": {
         "none": [
@@ -250,11 +250,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-a0pa/anno-page-u6uf",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-a0pa/anno-page-u6uf",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-4wag",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-4wag",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -269,14 +269,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-a0pa"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-a0pa"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-h9gg",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-h9gg",
       "type": "Canvas",
       "label": {
         "none": [
@@ -294,11 +294,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-h9gg/anno-page-mxb6",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-h9gg/anno-page-mxb6",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-oqr6",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-oqr6",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -313,14 +313,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-h9gg"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-h9gg"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-ag40",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-ag40",
       "type": "Canvas",
       "label": {
         "none": [
@@ -338,11 +338,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-ag40/anno-page-vzhd",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-ag40/anno-page-vzhd",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-og7e",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-og7e",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -357,14 +357,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-ag40"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-ag40"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-cmky",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-cmky",
       "type": "Canvas",
       "label": {
         "none": [
@@ -382,11 +382,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-cmky/anno-page-1h99",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-cmky/anno-page-1h99",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-mo1g",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-mo1g",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -401,14 +401,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-cmky"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-cmky"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qeo5",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qeo5",
       "type": "Canvas",
       "label": {
         "none": [
@@ -426,11 +426,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qeo5/anno-page-rs9e",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qeo5/anno-page-rs9e",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-uyx0",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-uyx0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -445,14 +445,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qeo5"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qeo5"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-iq6i",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-iq6i",
       "type": "Canvas",
       "label": {
         "none": [
@@ -470,11 +470,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-iq6i/anno-page-5r9w",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-iq6i/anno-page-5r9w",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-8fiu",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-8fiu",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -489,14 +489,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-iq6i"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-iq6i"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-sd1r",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-sd1r",
       "type": "Canvas",
       "label": {
         "none": [
@@ -514,11 +514,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-sd1r/anno-page-gxg6",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-sd1r/anno-page-gxg6",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-7oa3",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-7oa3",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -533,14 +533,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-sd1r"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-sd1r"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-np8y",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-np8y",
       "type": "Canvas",
       "label": {
         "none": [
@@ -558,11 +558,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-np8y/anno-page-f2ce",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-np8y/anno-page-f2ce",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-p415",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-p415",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -577,14 +577,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-np8y"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-np8y"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-wpue",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-wpue",
       "type": "Canvas",
       "label": {
         "none": [
@@ -602,11 +602,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-wpue/anno-page-6t2h",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-wpue/anno-page-6t2h",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-heyk",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-heyk",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -621,14 +621,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-wpue"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-wpue"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-bfys",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-bfys",
       "type": "Canvas",
       "label": {
         "none": [
@@ -646,11 +646,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-bfys/anno-page-yuc6",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-bfys/anno-page-yuc6",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-yzus",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-yzus",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -665,14 +665,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-bfys"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-bfys"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-7tbk",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-7tbk",
       "type": "Canvas",
       "label": {
         "none": [
@@ -690,11 +690,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-7tbk/anno-page-p0nz",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-7tbk/anno-page-p0nz",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-doue",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-doue",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -709,14 +709,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-7tbk"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-7tbk"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-86g9",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-86g9",
       "type": "Canvas",
       "label": {
         "none": [
@@ -734,11 +734,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-86g9/anno-page-6sq5",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-86g9/anno-page-6sq5",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-n8jm",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-n8jm",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -753,14 +753,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-86g9"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-86g9"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-343t",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-343t",
       "type": "Canvas",
       "label": {
         "none": [
@@ -778,11 +778,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-343t/anno-page-dnzx",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-343t/anno-page-dnzx",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-prqh",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-prqh",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -797,14 +797,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-343t"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-343t"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-6wdx",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-6wdx",
       "type": "Canvas",
       "label": {
         "none": [
@@ -822,11 +822,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-6wdx/anno-page-xoh0",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-6wdx/anno-page-xoh0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-ij1c",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-ij1c",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -841,14 +841,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-6wdx"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-6wdx"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-421u",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-421u",
       "type": "Canvas",
       "label": {
         "none": [
@@ -866,11 +866,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-421u/anno-page-3sid",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-421u/anno-page-3sid",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-1e27",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-1e27",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -885,14 +885,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-421u"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-421u"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-er1a",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-er1a",
       "type": "Canvas",
       "label": {
         "none": [
@@ -910,11 +910,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-er1a/anno-page-uot5",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-er1a/anno-page-uot5",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-cey5",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-cey5",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -929,14 +929,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-er1a"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-er1a"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-ezmf",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-ezmf",
       "type": "Canvas",
       "label": {
         "none": [
@@ -954,11 +954,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-ezmf/anno-page-vgnt",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-ezmf/anno-page-vgnt",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-0pd6",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-0pd6",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -973,14 +973,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-ezmf"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-ezmf"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-8o28",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-8o28",
       "type": "Canvas",
       "label": {
         "none": [
@@ -998,11 +998,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-8o28/anno-page-cpap",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-8o28/anno-page-cpap",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-oynm",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-oynm",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -1017,14 +1017,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-8o28"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-8o28"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qq23",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qq23",
       "type": "Canvas",
       "label": {
         "none": [
@@ -1042,11 +1042,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qq23/anno-page-ssjc",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qq23/anno-page-ssjc",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-epww",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-epww",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -1061,14 +1061,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qq23"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qq23"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-pjnr",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-pjnr",
       "type": "Canvas",
       "label": {
         "none": [
@@ -1086,11 +1086,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-pjnr/anno-page-icqt",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-pjnr/anno-page-icqt",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-900f",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-900f",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -1105,14 +1105,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-pjnr"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-pjnr"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-5wir",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-5wir",
       "type": "Canvas",
       "label": {
         "none": [
@@ -1130,11 +1130,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-5wir/anno-page-p90n",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-5wir/anno-page-p90n",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-9qd8",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-9qd8",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -1149,14 +1149,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-5wir"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-5wir"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-paem",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-paem",
       "type": "Canvas",
       "label": {
         "none": [
@@ -1174,11 +1174,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-paem/anno-page-eokg",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-paem/anno-page-eokg",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-8f73",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-8f73",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -1193,14 +1193,14 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-paem"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-paem"
             }
           ]
         }
       ]
     },
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-vyxo",
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-vyxo",
       "type": "Canvas",
       "label": {
         "none": [
@@ -1218,11 +1218,11 @@
       ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-vyxo/anno-page-8c3n",
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-vyxo/anno-page-8c3n",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/annotations/anno-fvho",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/annotations/anno-fvho",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -1237,7 +1237,7 @@
                   }
                 ]
               },
-              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-vyxo"
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-vyxo"
             }
           ]
         }
@@ -1278,7 +1278,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-kto3",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-kto3",
               "type": "Canvas"
             }
           ]
@@ -1293,7 +1293,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-vozq",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-vozq",
               "type": "Canvas"
             }
           ]
@@ -1308,7 +1308,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-xrgi",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-xrgi",
               "type": "Canvas"
             }
           ]
@@ -1323,7 +1323,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qqto",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qqto",
               "type": "Canvas"
             }
           ]
@@ -1338,7 +1338,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-77bu",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-77bu",
               "type": "Canvas"
             }
           ]
@@ -1353,7 +1353,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-a0pa",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-a0pa",
               "type": "Canvas"
             }
           ]
@@ -1368,7 +1368,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-h9gg",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-h9gg",
               "type": "Canvas"
             }
           ]
@@ -1383,7 +1383,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-ag40",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-ag40",
               "type": "Canvas"
             }
           ]
@@ -1398,7 +1398,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-cmky",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-cmky",
               "type": "Canvas"
             }
           ]
@@ -1413,7 +1413,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qeo5",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qeo5",
               "type": "Canvas"
             }
           ]
@@ -1428,7 +1428,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-iq6i",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-iq6i",
               "type": "Canvas"
             }
           ]
@@ -1443,7 +1443,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-sd1r",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-sd1r",
               "type": "Canvas"
             }
           ]
@@ -1458,7 +1458,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-np8y",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-np8y",
               "type": "Canvas"
             }
           ]
@@ -1473,7 +1473,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-wpue",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-wpue",
               "type": "Canvas"
             }
           ]
@@ -1488,7 +1488,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-bfys",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-bfys",
               "type": "Canvas"
             }
           ]
@@ -1503,7 +1503,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-7tbk",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-7tbk",
               "type": "Canvas"
             }
           ]
@@ -1518,7 +1518,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-86g9",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-86g9",
               "type": "Canvas"
             }
           ]
@@ -1533,7 +1533,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-343t",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-343t",
               "type": "Canvas"
             }
           ]
@@ -1548,7 +1548,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-6wdx",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-6wdx",
               "type": "Canvas"
             }
           ]
@@ -1563,7 +1563,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-421u",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-421u",
               "type": "Canvas"
             }
           ]
@@ -1578,7 +1578,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-er1a",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-er1a",
               "type": "Canvas"
             }
           ]
@@ -1593,7 +1593,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-ezmf",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-ezmf",
               "type": "Canvas"
             }
           ]
@@ -1608,7 +1608,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-8o28",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-8o28",
               "type": "Canvas"
             }
           ]
@@ -1623,7 +1623,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-qq23",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-qq23",
               "type": "Canvas"
             }
           ]
@@ -1638,7 +1638,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-pjnr",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-pjnr",
               "type": "Canvas"
             }
           ]
@@ -1653,7 +1653,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-5wir",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-5wir",
               "type": "Canvas"
             }
           ]
@@ -1668,7 +1668,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-paem",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-paem",
               "type": "Canvas"
             }
           ]
@@ -1683,7 +1683,7 @@
           },
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json/canvas-vyxo",
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x73m99/manifest/canvas-vyxo",
               "type": "Canvas"
             }
           ]

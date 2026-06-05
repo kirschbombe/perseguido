@@ -1,0 +1,2366 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "El Perseguido (El): Voz de los explotados, Año 3 (1892)"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-hiun",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 34, 1 enero 1892, p. 1"
+        ]
+      },
+      "height": 6224,
+      "width": 4432,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trvq/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-hiun/anno-page-vbo0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/annotations/anno-40zb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trvq/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trvq",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-hiun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-e2cd",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 34, 1 enero 1892, p. 2"
+        ]
+      },
+      "height": 6256,
+      "width": 4392,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trw7/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-e2cd/anno-page-do4w",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/annotations/anno-icj5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trw7/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trw7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-e2cd"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-t1ng",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 34, 1 enero 1892, p. 3"
+        ]
+      },
+      "height": 6248,
+      "width": 4472,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trxr/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-t1ng/anno-page-c4b3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/annotations/anno-fzu9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trxr/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trxr",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-t1ng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-zie0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 34, 1 enero 1892, p. 4"
+        ]
+      },
+      "height": 6240,
+      "width": 4432,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trz8/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-zie0/anno-page-gxg4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/annotations/anno-hn38",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trz8/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028trz8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-zie0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-j6gw",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 36, 7 febrero 1892, p. 1"
+        ]
+      },
+      "height": 6288,
+      "width": 4432,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts1s/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-j6gw/anno-page-brxz",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/annotations/anno-6864",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts1s/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts1s",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-j6gw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-2vbe",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 36, 7 febrero 1892, p. 2"
+        ]
+      },
+      "height": 6208,
+      "width": 4392,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts29/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-2vbe/anno-page-4n6b",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/annotations/anno-t1ng",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts29/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts29",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-2vbe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-m4ub",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 36, 7 febrero 1892, p. 3"
+        ]
+      },
+      "height": 6312,
+      "width": 4456,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts3t/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-m4ub/anno-page-f981",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/annotations/anno-hs0i",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts3t/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts3t",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-m4ub"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-65f2",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 36, 7 febrero 1892, p. 4"
+        ]
+      },
+      "height": 6312,
+      "width": 4504,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts4b/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-65f2/anno-page-9y4b",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/annotations/anno-a9fh",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts4b/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts4b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-65f2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-rfch",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 38, 6 marzo 1892, p. 1"
+        ]
+      },
+      "height": 6344,
+      "width": 4456,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts6c/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-rfch/anno-page-fgfb",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/annotations/anno-pou0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts6c/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts6c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-rfch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-jyr6",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 38, 6 marzo 1892, p. 2"
+        ]
+      },
+      "height": 6320,
+      "width": 4480,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts7w/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-jyr6/anno-page-x4j4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/annotations/anno-z3mj",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts7w/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts7w",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-jyr6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-u30o",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 38, 6 marzo 1892, p. 3"
+        ]
+      },
+      "height": 6312,
+      "width": 4424,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts8d/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-u30o/anno-page-j6gw",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/annotations/anno-40zb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts8d/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts8d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-u30o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-3yp7",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 38, 6 marzo 1892, p. 4"
+        ]
+      },
+      "height": 6344,
+      "width": 4464,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts9x/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-3yp7/anno-page-6jg4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/annotations/anno-8m9x",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts9x/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ts9x",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-3yp7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-so7o",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 40, 10 abril 1892, p. 1"
+        ]
+      },
+      "height": 6336,
+      "width": 4448,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tscz/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-so7o/anno-page-52s7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/annotations/anno-rfch",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tscz/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tscz",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-so7o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-n48s",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 40, 10 abril 1892, p. 2"
+        ]
+      },
+      "height": 6312,
+      "width": 4448,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsdg/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-n48s/anno-page-u942",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/annotations/anno-pou0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsdg/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsdg",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-n48s"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-y5p9",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 40, 10 abril 1892, p. 3"
+        ]
+      },
+      "height": 6288,
+      "width": 4384,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsf0/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-y5p9/anno-page-momm",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/annotations/anno-fgfb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsf0/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsf0",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-y5p9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-esh7",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 40, 10 abril 1892, p. 4"
+        ]
+      },
+      "height": 6320,
+      "width": 4424,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsgh/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-esh7/anno-page-hiun",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/annotations/anno-jyr6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsgh/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsgh",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-esh7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-pou0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 44, 10 julio 1892, p. 1"
+        ]
+      },
+      "height": 6208,
+      "width": 4536,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsjj/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-pou0/anno-page-v0my",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/annotations/anno-rycv",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsjj/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsjj",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-pou0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-dcsw",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 44, 10 julio 1892, p. 2"
+        ]
+      },
+      "height": 6192,
+      "width": 4496,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsk2/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-dcsw/anno-page-s1py",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/annotations/anno-87bs",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsk2/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsk2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-dcsw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-ww4p",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 44, 10 julio 1892, p. 3"
+        ]
+      },
+      "height": 6192,
+      "width": 4496,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsmk/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-ww4p/anno-page-gxg4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/annotations/anno-hs0i",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsmk/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsmk",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-ww4p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-4d3v",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 44, 10 julio 1892, p. 4"
+        ]
+      },
+      "height": 6192,
+      "width": 4472,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsn3/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-4d3v/anno-page-0e8k",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/annotations/anno-r7h7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsn3/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsn3",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-4d3v"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-pou0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 45, 24 julio 1892, p. 1"
+        ]
+      },
+      "height": 6256,
+      "width": 4368,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsq4/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-pou0/anno-page-t3qu",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/annotations/anno-esh7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsq4/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsq4",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-pou0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-u30o",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 45, 24 julio 1892, p. 2"
+        ]
+      },
+      "height": 6256,
+      "width": 4336,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsrn/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-u30o/anno-page-p5n7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/annotations/anno-cumf",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsrn/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsrn",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-u30o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-6jg4",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 45, 24 julio 1892, p. 3"
+        ]
+      },
+      "height": 6224,
+      "width": 4304,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tss5/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-6jg4/anno-page-e2cd",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/annotations/anno-z9an",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tss5/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tss5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-6jg4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-9omb",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 45, 24 julio 1892, p. 4"
+        ]
+      },
+      "height": 6256,
+      "width": 4336,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tstp/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-9omb/anno-page-4v27",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/annotations/anno-9hfd",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tstp/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tstp",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-9omb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-fgfb",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 48, 25 septiembre 1892, p. 1"
+        ]
+      },
+      "height": 6352,
+      "width": 4488,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tswq/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-fgfb/anno-page-8m9x",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/annotations/anno-u30o",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tswq/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tswq",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-fgfb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-w93c",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 48, 25 septiembre 1892, p. 2"
+        ]
+      },
+      "height": 6352,
+      "width": 4552,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsx7/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-w93c/anno-page-a0uh",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/annotations/anno-icj5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsx7/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tsx7",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-w93c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-jpic",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 48, 25 septiembre 1892, p. 3"
+        ]
+      },
+      "height": 6296,
+      "width": 4480,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tszr/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-jpic/anno-page-m4ub",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/annotations/anno-hg2b",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tszr/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tszr",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-jpic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-598t",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 48, 25 septiembre 1892, p. 4"
+        ]
+      },
+      "height": 6296,
+      "width": 4368,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt0r/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-598t/anno-page-jnrg",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/annotations/anno-rj5j",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt0r/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt0r",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-598t"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-48q9",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 52, 27 noviembre 1892, p. 1"
+        ]
+      },
+      "height": 6032,
+      "width": 4416,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt2s/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-48q9/anno-page-y9wr",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/annotations/anno-40zb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt2s/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt2s",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-48q9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-kabn",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 52, 27 noviembre 1892, p. 2"
+        ]
+      },
+      "height": 6056,
+      "width": 4416,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt39/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-kabn/anno-page-mo4h",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/annotations/anno-dcsw",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt39/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt39",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-kabn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-a0c1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 52, 27 noviembre 1892, p. 3"
+        ]
+      },
+      "height": 6048,
+      "width": 4456,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt4t/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-a0c1/anno-page-2gsb",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/annotations/anno-y94h",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt4t/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt4t",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-a0c1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-fikj",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 52, 27 noviembre 1892, p. 4"
+        ]
+      },
+      "height": 6072,
+      "width": 4456,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt5b/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-fikj/anno-page-1bnr",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/annotations/anno-hfwo",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt5b/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt5b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-fikj"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-u942",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 53, 15 diciembre 1892, p. 1"
+        ]
+      },
+      "height": 5952,
+      "width": 4456,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt7c/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-u942/anno-page-vbo0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/annotations/anno-u30o",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt7c/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt7c",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-u942"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-f2ju",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 53, 15 diciembre 1892, p. 2"
+        ]
+      },
+      "height": 5920,
+      "width": 4320,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt8w/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-f2ju/anno-page-9w24",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/annotations/anno-z3w9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt8w/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt8w",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-f2ju"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-ou8h",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 53, 15 diciembre 1892, p. 3"
+        ]
+      },
+      "height": 5920,
+      "width": 4384,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt9d/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-ou8h/anno-page-tbr1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/annotations/anno-m4ub",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt9d/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028tt9d",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-ou8h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-onvm",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "número 53, 15 diciembre 1892, p. 4"
+        ]
+      },
+      "height": 5976,
+      "width": 4400,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ttbx/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-onvm/anno-page-mtev",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/annotations/anno-nkii",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ttbx/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fzz0028ttbx",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-onvm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-34-1-enero-1892",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 34, 1 enero 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1892-01-01"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-34-1-enero-1892/p1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-hiun",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-34-1-enero-1892/p2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-e2cd",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-34-1-enero-1892/p3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-t1ng",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-34-1-enero-1892/p4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028trt6/manifest/canvas-zie0",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-36-7-febrero-1892",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 36, 7 febrero 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1892-02-07"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-36-7-febrero-1892/p1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-j6gw",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-36-7-febrero-1892/p2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-2vbe",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-36-7-febrero-1892/p3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-m4ub",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-36-7-febrero-1892/p4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts08/manifest/canvas-65f2",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-38-6-marzo-1892",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 38, 6 marzo 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1892-03-06"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-38-6-marzo-1892/p1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-rfch",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-38-6-marzo-1892/p2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-jyr6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-38-6-marzo-1892/p3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-u30o",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-38-6-marzo-1892/p4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028ts5v/manifest/canvas-3yp7",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-40-10-abril-1892",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 40, 10 abril 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1892-04-10"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-40-10-abril-1892/p1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-so7o",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-40-10-abril-1892/p2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-n48s",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-40-10-abril-1892/p3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-y5p9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-40-10-abril-1892/p4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsbf/manifest/canvas-esh7",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-44-10-julio-1892",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 44, 10 julio 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1892-07-10"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-44-10-julio-1892/p1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-pou0",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-44-10-julio-1892/p2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-dcsw",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-44-10-julio-1892/p3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-ww4p",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-44-10-julio-1892/p4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsh1/manifest/canvas-4d3v",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-45-24-julio-1892",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 45, 24 julio 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1892-07-24"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-45-24-julio-1892/p1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-pou0",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-45-24-julio-1892/p2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-u30o",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-45-24-julio-1892/p3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-6jg4",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-45-24-julio-1892/p4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tspm/manifest/canvas-9omb",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-48-25-septiembre-1892",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 48, 25 septiembre 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1892-09-25"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-48-25-septiembre-1892/p1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-fgfb",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-48-25-septiembre-1892/p2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-w93c",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-48-25-septiembre-1892/p3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-jpic",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-48-25-septiembre-1892/p4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tsv6/manifest/canvas-598t",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-52-27-noviembre-1892",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 52, 27 noviembre 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1892-11-27"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-52-27-noviembre-1892/p1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-48q9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-52-27-noviembre-1892/p2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-kabn",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-52-27-noviembre-1892/p3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-a0c1",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-52-27-noviembre-1892/p4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt18/manifest/canvas-fikj",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-53-15-diciembre-1892",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 53, 15 diciembre 1892"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1892-12-15"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-53-15-diciembre-1892/p1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-u942",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-53-15-diciembre-1892/p2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-f2ju",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-53-15-diciembre-1892/p3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-ou8h",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-3.json/range/vol-3/número-53-15-diciembre-1892/p4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "http://b1dbe4a0-443c-479f-bf0a-25c352df0d8f.iiif.library.ucla.edu/ark%3A%2F21198%2Fzz0028tt6v/manifest/canvas-onvm",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
