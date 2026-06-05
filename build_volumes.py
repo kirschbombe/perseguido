@@ -74,13 +74,6 @@ def build_volume(ano, issues_data):
         }
         all_issue_ranges.append(issue_range)
 
-    top_range = {
-        "id": f"{vol_id}/range/range-ano-{ano}",
-        "type": "Range",
-        "label": {"en": [f"Año {ano} ({year})"]},
-        "items": all_issue_ranges,
-    }
-
     first_date = issues_data[0]["date_normalized"]
     last_date = issues_data[-1]["date_normalized"]
     metadata = [
@@ -104,7 +97,64 @@ def build_volume(ano, issues_data):
         "behavior": ["paged"],
         "metadata": metadata,
         "items": all_canvases,
-        "structures": [top_range],
+        "structures": all_issue_ranges,
+    }
+
+
+def build_full_run(volumes):
+    """Single manifest representing the entire periodical run, structured by volume > issue > page."""
+    run_id = f"{BASE_URL}/full-run.json"
+    all_canvases = []
+    vol_ranges = []
+
+    for ano, vol in volumes:
+        year = YEAR_MAP.get(ano, "")
+        issue_ranges = vol["structures"]  # already built issue ranges with page sub-ranges
+
+        # Collect canvases and re-key IDs from volume manifest URL to full-run URL
+        vol_canvas_ids_seen = set()
+        for canvas in vol["items"]:
+            new_canvas = json.loads(json.dumps(canvas).replace(vol["id"], run_id))
+            if new_canvas["id"] not in vol_canvas_ids_seen:
+                vol_canvas_ids_seen.add(new_canvas["id"])
+                all_canvases.append(new_canvas)
+
+        # Re-key all range IDs from volume manifest URL to full-run URL
+        issue_ranges_rekeyed = json.loads(
+            json.dumps(issue_ranges).replace(vol["id"], run_id)
+        )
+
+        vol_range = {
+            "id": f"{run_id}/range/range-ano-{ano}",
+            "type": "Range",
+            "label": {"en": [f"Año {ano} ({year})"]},
+            "items": issue_ranges_rekeyed,
+        }
+        vol_ranges.append(vol_range)
+
+    first_date = volumes[0][1]["metadata"][0]["value"]["en"][0].split(" / ")[0]
+    last_date = volumes[-1][1]["metadata"][0]["value"]["en"][0].split(" / ")[1]
+
+    return {
+        "@context": "http://iiif.io/api/presentation/3/context.json",
+        "id": run_id,
+        "type": "Manifest",
+        "label": {"none": ["El Perseguido (El): Voz de los explotados"]},
+        "behavior": ["paged"],
+        "metadata": [
+            {"label": {"en": ["Date range"]}, "value": {"en": [f"{first_date} / {last_date}"]}},
+            {"label": {"en": ["Genre"]}, "value": {"en": ["newspapers"]}},
+            {"label": {"en": ["Rights"]}, "value": {"en": ["Public domain"]}},
+            {
+                "label": {"en": ["Note"]},
+                "value": {"en": [
+                    "This is a test note. Issue dates are derived from publication records "
+                    "and may be approximate where original issues lack explicit date information."
+                ]},
+            },
+        ],
+        "items": all_canvases,
+        "structures": vol_ranges,
     }
 
 
@@ -154,6 +204,12 @@ def main():
             json.dump(vol, f, ensure_ascii=False, indent=2)
         print(f"  → {out_path} ({len(vol['items'])} canvases, {len(issues)} issue ranges)")
         volumes.append((ano, vol))
+
+    full_run = build_full_run(volumes)
+    run_path = os.path.join(OUTPUT_DIR, "full-run.json")
+    with open(run_path, "w", encoding="utf-8") as f:
+        json.dump(full_run, f, ensure_ascii=False, indent=2)
+    print(f"→ {run_path} ({len(full_run['items'])} canvases, {len(full_run['structures'])} volume ranges)")
 
     collection = build_collection(volumes)
     coll_path = os.path.join(OUTPUT_DIR, "collection.json")
