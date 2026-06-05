@@ -768,399 +768,388 @@
   ],
   "structures": [
     {
-      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5",
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70",
       "type": "Range",
       "label": {
         "en": [
-          "Año 5 (1894)"
+          "número 70, 31 mayo 1894"
         ]
       },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1894-05-31"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Issue number"
+            ]
+          },
+          "value": {
+            "en": [
+              "70"
+            ]
+          }
+        }
+      ],
       "items": [
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70",
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-1",
           "type": "Range",
           "label": {
             "en": [
-              "número 70, 31 mayo 1894"
+              "p. 1"
             ]
           },
-          "metadata": [
-            {
-              "label": {
-                "en": [
-                  "Date"
-                ]
-              },
-              "value": {
-                "en": [
-                  "1894-05-31"
-                ]
-              }
-            },
-            {
-              "label": {
-                "en": [
-                  "Issue number"
-                ]
-              },
-              "value": {
-                "en": [
-                  "70"
-                ]
-              }
-            }
-          ],
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-1",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 1"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-rfch",
-                  "type": "Canvas"
-                }
-              ]
-            },
-            {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-2",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 2"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-3yp7",
-                  "type": "Canvas"
-                }
-              ]
-            },
-            {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-3",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 3"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-icj5",
-                  "type": "Canvas"
-                }
-              ]
-            },
-            {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-4",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 4"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-y94h",
-                  "type": "Canvas"
-                }
-              ]
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-rfch",
+              "type": "Canvas"
             }
           ]
         },
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71",
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-2",
           "type": "Range",
           "label": {
             "en": [
-              "número 71, 11 noviembre 1894"
+              "p. 2"
             ]
           },
-          "metadata": [
-            {
-              "label": {
-                "en": [
-                  "Date"
-                ]
-              },
-              "value": {
-                "en": [
-                  "1894-11-11"
-                ]
-              }
-            },
-            {
-              "label": {
-                "en": [
-                  "Issue number"
-                ]
-              },
-              "value": {
-                "en": [
-                  "71"
-                ]
-              }
-            }
-          ],
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-1",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 1"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-2a7y",
-                  "type": "Canvas"
-                }
-              ]
-            },
-            {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-2",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 2"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59",
-                  "type": "Canvas"
-                }
-              ]
-            },
-            {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-3",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 3"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-5qtb",
-                  "type": "Canvas"
-                }
-              ]
-            },
-            {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-4",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 4"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-re1n",
-                  "type": "Canvas"
-                }
-              ]
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-3yp7",
+              "type": "Canvas"
             }
           ]
         },
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72",
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-3",
           "type": "Range",
           "label": {
             "en": [
-              "número 72, 22 noviembre 1894"
+              "p. 3"
             ]
           },
-          "metadata": [
-            {
-              "label": {
-                "en": [
-                  "Date"
-                ]
-              },
-              "value": {
-                "en": [
-                  "1894-11-22"
-                ]
-              }
-            },
-            {
-              "label": {
-                "en": [
-                  "Issue number"
-                ]
-              },
-              "value": {
-                "en": [
-                  "72"
-                ]
-              }
-            }
-          ],
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-1",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 1"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-momm",
-                  "type": "Canvas"
-                }
-              ]
-            },
-            {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-2",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 2"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-f2ju",
-                  "type": "Canvas"
-                }
-              ]
-            },
-            {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-3",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 3"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-9rp8",
-                  "type": "Canvas"
-                }
-              ]
-            },
-            {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-4",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 4"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-enci",
-                  "type": "Canvas"
-                }
-              ]
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-icj5",
+              "type": "Canvas"
             }
           ]
         },
         {
-          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73",
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-70/range-page-4",
           "type": "Range",
           "label": {
             "en": [
-              "número 73, 12 diciembre 1894"
+              "p. 4"
             ]
           },
-          "metadata": [
-            {
-              "label": {
-                "en": [
-                  "Date"
-                ]
-              },
-              "value": {
-                "en": [
-                  "1894-12-12"
-                ]
-              }
-            },
-            {
-              "label": {
-                "en": [
-                  "Issue number"
-                ]
-              },
-              "value": {
-                "en": [
-                  "73"
-                ]
-              }
-            }
-          ],
           "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-1",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 1"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-n48s",
-                  "type": "Canvas"
-                }
-              ]
-            },
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-y94h",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 71, 11 noviembre 1894"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1894-11-11"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Issue number"
+            ]
+          },
+          "value": {
+            "en": [
+              "71"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-2",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 2"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-48q9",
-                  "type": "Canvas"
-                }
-              ]
-            },
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-2a7y",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-3",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 3"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-eypa",
-                  "type": "Canvas"
-                }
-              ]
-            },
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
             {
-              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-4",
-              "type": "Range",
-              "label": {
-                "en": [
-                  "p. 4"
-                ]
-              },
-              "items": [
-                {
-                  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59",
-                  "type": "Canvas"
-                }
-              ]
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-5qtb",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-71/range-page-4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-re1n",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 72, 22 noviembre 1894"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1894-11-22"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Issue number"
+            ]
+          },
+          "value": {
+            "en": [
+              "72"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-momm",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-f2ju",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-9rp8",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-72/range-page-4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-enci",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73",
+      "type": "Range",
+      "label": {
+        "en": [
+          "número 73, 12 diciembre 1894"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1894-12-12"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Issue number"
+            ]
+          },
+          "value": {
+            "en": [
+              "73"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-n48s",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-48q9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-eypa",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/range/range-ano-5/range-issue-73/range-page-4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/volume-ano-5.json/canvas-ih59",
+              "type": "Canvas"
             }
           ]
         }
