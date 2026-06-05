@@ -1,0 +1,417 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/collection.json",
+  "type": "Collection",
+  "label": {
+    "none": [
+      "El Fígaro — Volumes"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1885.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1885"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1886.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1886"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1887.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1887"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1888.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1888"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1889.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1889"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1890.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1890"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1891.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1891"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1892.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1892"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1893.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1893"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1894.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1894"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1895.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1895"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1896.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1896"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1898.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1898"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1899.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1899"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1900.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1900"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1901.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1901"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1902.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1902"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1903.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1903"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1904.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1904"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1905.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1905"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1906.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1906"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1907.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1907"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1908.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1908"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1909.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1909"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1910.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1910"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1912.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1912"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1913.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1913"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1914.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1914"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1915.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1915"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1918.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1918"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1919.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1919"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1920.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1920"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1921.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1921"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1922.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1922"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1923.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1923"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1924.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1924"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1925.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1925"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1926.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1926"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1927.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1927"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1928.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1928"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1929.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1929"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1931"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1943.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1943"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1944.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1944"
+        ]
+      }
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1945.json",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "El Fígaro, 1945"
+        ]
+      }
+    }
+  ]
+}

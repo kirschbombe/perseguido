@@ -1,0 +1,2992 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "El Fígaro, 1931"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-u6uf",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 1"
+        ]
+      },
+      "height": 6973,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGzXfw9vnd/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-u6uf/anno-page-qeo5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-og7e",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGzXfw9vnd/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGzXfw9vnd",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-u6uf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5r9w",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 2"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Fab3SGj6Ft/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5r9w/anno-page-bfys",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-p415",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Fab3SGj6Ft/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Fab3SGj6Ft",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5r9w"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-p0nz",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 3"
+        ]
+      },
+      "height": 6835,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FCq6qUBoDA/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-p0nz/anno-page-421u",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-prqh",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FCq6qUBoDA/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FCq6qUBoDA",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-p0nz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-uot5",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 4"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Fpi7PFMa7I/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-uot5/anno-page-pjnr",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-oynm",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Fpi7PFMa7I/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Fpi7PFMa7I",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-uot5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-p90n",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 5"
+        ]
+      },
+      "height": 6835,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F1KO635QyF/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-p90n/anno-page-81bi",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-fvho",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F1KO635QyF/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F1KO635QyF",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-p90n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-xuth",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 6"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FIlqOEDd1p/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-xuth/anno-page-pcfe",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-z1ny",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FIlqOEDd1p/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FIlqOEDd1p",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-xuth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-8ec6",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 7"
+        ]
+      },
+      "height": 6835,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FcBXbWgTgL/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-8ec6/anno-page-o9dc",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-tanm",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FcBXbWgTgL/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FcBXbWgTgL",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-8ec6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-4kt7",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 8"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FhZMM4mI7x/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-4kt7/anno-page-7maf",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-qw58",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FhZMM4mI7x/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FhZMM4mI7x",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-4kt7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5q3o",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 9"
+        ]
+      },
+      "height": 6835,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F2LR1iY12P/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5q3o/anno-page-z4to",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-cuwj",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F2LR1iY12P/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F2LR1iY12P",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5q3o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-duz0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 10"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FZRAkxHlE6/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-duz0/anno-page-8c4b",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-g8se",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FZRAkxHlE6/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FZRAkxHlE6",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-duz0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-snkw",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 11"
+        ]
+      },
+      "height": 6973,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F67vYhttkT/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-snkw/anno-page-td0r",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-e0kb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F67vYhttkT/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F67vYhttkT",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-snkw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ogg0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 12"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FFAGbW4JBv/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ogg0/anno-page-wm21",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-3490",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FFAGbW4JBv/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FFAGbW4JBv",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ogg0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-7qso",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 13"
+        ]
+      },
+      "height": 6973,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Ftgp7Leo5J/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-7qso/anno-page-atg1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-8r58",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Ftgp7Leo5J/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Ftgp7Leo5J",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-7qso"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-rg5h",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 14"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F12stkaQCD/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-rg5h/anno-page-kbck",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-hvx5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F12stkaQCD/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F12stkaQCD",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-rg5h"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-y1z8",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 15"
+        ]
+      },
+      "height": 6973,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FtWkpnytDy/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-y1z8/anno-page-5zwf",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-enwn",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FtWkpnytDy/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FtWkpnytDy",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-y1z8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-azje",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 16"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FeTaw1LVcY/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-azje/anno-page-pk5t",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-4dfn",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FeTaw1LVcY/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FeTaw1LVcY",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-azje"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-wigq",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 17"
+        ]
+      },
+      "height": 6973,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FckfhCW3bS/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-wigq/anno-page-o6y5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-0px6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FckfhCW3bS/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FckfhCW3bS",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-wigq"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-emsm",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 18"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FdUstXSkv8/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-emsm/anno-page-2yuz",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-qio2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FdUstXSkv8/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FdUstXSkv8",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-emsm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-9nfc",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 19"
+        ]
+      },
+      "height": 6973,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSs3opbmxH/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-9nfc/anno-page-61ja",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-snqk",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSs3opbmxH/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSs3opbmxH",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-9nfc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-abne",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 20"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGRDd3kMpH/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-abne/anno-page-gfy8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-94fj",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGRDd3kMpH/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGRDd3kMpH",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-abne"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-nn1j",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 21"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FTDz1Jiwqo/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-nn1j/anno-page-josp",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-q1gk",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FTDz1Jiwqo/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FTDz1Jiwqo",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-nn1j"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ce3k",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 22"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FYGNcFNwnG/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ce3k/anno-page-osnw",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-akh4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FYGNcFNwnG/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FYGNcFNwnG",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ce3k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-fzct",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 23"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FZCKowFuxA/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-fzct/anno-page-0x1u",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-fc6a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FZCKowFuxA/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FZCKowFuxA",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-fzct"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-00a4",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 24"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F5T7WqOh1A/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-00a4/anno-page-sev1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-j3ws",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F5T7WqOh1A/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F5T7WqOh1A",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-00a4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-8340",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 25"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGqpFQUXSI/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-8340/anno-page-2cj8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-jizb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGqpFQUXSI/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGqpFQUXSI",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-8340"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-uko7",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 26"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGdq0wybs5/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-uko7/anno-page-i4n0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-7a39",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGdq0wybs5/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGdq0wybs5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-uko7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ynek",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 27"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F5urxX63Oh/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ynek/anno-page-zua7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-7bdf",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F5urxX63Oh/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F5urxX63Oh",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ynek"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-4esx",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 28"
+        ]
+      },
+      "height": 6863,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FLiZXBNFQ5/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-4esx/anno-page-tvyv",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-mxq0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FLiZXBNFQ5/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FLiZXBNFQ5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-4esx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-diap",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 29"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FkTzsqJBRt/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-diap/anno-page-og1q",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-2r11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FkTzsqJBRt/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FkTzsqJBRt",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-diap"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-oz7f",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 30"
+        ]
+      },
+      "height": 6752,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSa8U8KjUt/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-oz7f/anno-page-z4jo",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-ykp9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSa8U8KjUt/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSa8U8KjUt",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-oz7f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i0pk",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 31"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FzCazjnR0g/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i0pk/anno-page-5a07",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-qj4u",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FzCazjnR0g/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FzCazjnR0g",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i0pk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-azd6",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 32"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSKbK7QROM/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-azd6/anno-page-165t",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-q9fm",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSKbK7QROM/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSKbK7QROM",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-azd6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i879",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 33"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FkrdurKTuV/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i879/anno-page-do69",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-ter8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FkrdurKTuV/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FkrdurKTuV",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i879"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-9g3s",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 34"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FTQRf0PH0b/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-9g3s/anno-page-svhi",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-jz3n",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FTQRf0PH0b/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FTQRf0PH0b",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-9g3s"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-mb9e",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 35"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FL1S0uheOs/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-mb9e/anno-page-0exd",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-dcmh",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FL1S0uheOs/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FL1S0uheOs",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-mb9e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-xhj9",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 36"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FdEkcc64Hk/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-xhj9/anno-page-taok",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-1k51",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FdEkcc64Hk/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FdEkcc64Hk",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-xhj9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i86d",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 37"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FRSZkOqpVA/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i86d/anno-page-puzw",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-0moz",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FRSZkOqpVA/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FRSZkOqpVA",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i86d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-844r",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 38"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGk68FAAGo/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-844r/anno-page-oe0b",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-h88y",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGk68FAAGo/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FGk68FAAGo",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-844r"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ez7y",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 39"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FYzoZldH9G/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ez7y/anno-page-fyad",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-yhn7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FYzoZldH9G/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FYzoZldH9G",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ez7y"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-f99o",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 40"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FjNooFVvRb/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-f99o/anno-page-p7eb",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-qtu8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FjNooFVvRb/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FjNooFVvRb",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-f99o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-iny9",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 41"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FmqmdC8ZKk/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-iny9/anno-page-2nzg",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-4bp9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FmqmdC8ZKk/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FmqmdC8ZKk",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-iny9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ghyh",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 42"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FoSTVfgieT/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ghyh/anno-page-fvgt",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-hu6d",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FoSTVfgieT/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FoSTVfgieT",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ghyh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5f9x",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 43"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FpSRdzqmSC/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5f9x/anno-page-vqjy",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-c848",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FpSRdzqmSC/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FpSRdzqmSC",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5f9x"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-a9gc",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 44"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Fil5z43xN5/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-a9gc/anno-page-r7dp",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-vtnw",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Fil5z43xN5/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2Fil5z43xN5",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-a9gc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-2o0v",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 45"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F5cWiFVyHm/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-2o0v/anno-page-qver",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-7k3y",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F5cWiFVyHm/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F5cWiFVyHm",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-2o0v"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-s9w7",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 46"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FokSskCi9D/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-s9w7/anno-page-z1x9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-y5ij",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FokSskCi9D/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FokSskCi9D",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-s9w7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-wkix",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 47"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FteaxQOs8q/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-wkix/anno-page-04f0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-j0sv",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FteaxQOs8q/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FteaxQOs8q",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-wkix"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ridd",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 48"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FfdlOWGiPK/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ridd/anno-page-u50d",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-c0mz",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FfdlOWGiPK/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FfdlOWGiPK",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ridd"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ooj6",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 49"
+        ]
+      },
+      "height": 6808,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F93TCcPPEU/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ooj6/anno-page-f9j0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-rkcn",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F93TCcPPEU/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2F93TCcPPEU",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ooj6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5xjf",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "1931-01-01 (vol. 48, no. 01), p. 50"
+        ]
+      },
+      "height": 6780,
+      "width": 4912,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSqEbiBQxM/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5xjf/anno-page-rmd9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/annotations/anno-a48i",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSqEbiBQxM/full/600,/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12043r4%2FSqEbiBQxM",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5xjf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01",
+      "type": "Range",
+      "label": {
+        "en": [
+          "1931-01-01 (vol. 48, no. 01)"
+        ]
+      },
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Date"
+            ]
+          },
+          "value": {
+            "en": [
+              "1931-01-01/1931-01-31"
+            ]
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p1",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-u6uf",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p2",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 2"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5r9w",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p3",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 3"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-p0nz",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p4",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 4"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-uot5",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p5",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 5"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-p90n",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p6",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 6"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-xuth",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p7",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 7"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-8ec6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p8",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 8"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-4kt7",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p9",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 9"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5q3o",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p10",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 10"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-duz0",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p11",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 11"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-snkw",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p12",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 12"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ogg0",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p13",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 13"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-7qso",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p14",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 14"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-rg5h",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p15",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 15"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-y1z8",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p16",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 16"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-azje",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p17",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 17"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-wigq",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p18",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 18"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-emsm",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p19",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 19"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-9nfc",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p20",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 20"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-abne",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p21",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 21"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-nn1j",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p22",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 22"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ce3k",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p23",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 23"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-fzct",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p24",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 24"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-00a4",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p25",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 25"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-8340",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p26",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 26"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-uko7",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p27",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 27"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ynek",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p28",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 28"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-4esx",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p29",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 29"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-diap",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p30",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 30"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-oz7f",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p31",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 31"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i0pk",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p32",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 32"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-azd6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p33",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 33"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i879",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p34",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 34"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-9g3s",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p35",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 35"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-mb9e",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p36",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 36"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-xhj9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p37",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 37"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-i86d",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p38",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 38"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-844r",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p39",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 39"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ez7y",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p40",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 40"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-f99o",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p41",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 41"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-iny9",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p42",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 42"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ghyh",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p43",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 43"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5f9x",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p44",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 44"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-a9gc",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p45",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 45"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-2o0v",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p46",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 46"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-s9w7",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p47",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 47"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-wkix",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p48",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 48"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ridd",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p49",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 49"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-ooj6",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/range/vol-1931/1931-01-01-vol-48-no-01/p50",
+          "type": "Range",
+          "label": {
+            "en": [
+              "p. 50"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/kirschbombe/perseguido/main/output/elfigaro/volume-1931.json/canvas-5xjf",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
