@@ -1,0 +1,34 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1g47b1v/manifest",
+  "type" : "Manifest",
+  "label" : {
+    "none" : [
+      "Revista Acción"
+    ]
+  },
+  "behavior" : [
+    "paged"
+  ],
+  "thumbnail" : [
+    {
+      "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1sn2wv9/full/!200,200/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg"
+    }
+  ],
+  "metadata" : [
+    {
+      "label" : {
+        "none" : [
+          "Repository"
+        ]
+      },
+      "value" : {
+        "none" : [
+          "Instituto de Historia de Cuba"
+        ]
+      }
+    }
+  ]
+}

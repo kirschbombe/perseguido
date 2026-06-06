@@ -1,0 +1,755 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://test.ingest.iiif.library.ucla.edu/collections/ark%3A%2F21198%2Fz1fb75c1",
+  "type" : "Collection",
+  "label" : {
+    "none" : [
+      "Latin American and Caribbean Periodicals"
+    ]
+  },
+  "thumbnail" : [
+    {
+      "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14f4jd4/full/!200,200/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg"
+    }
+  ],
+  "items" : [
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1g47b1v/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Revista Acción"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1sn2wv9/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1f7972j/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "¡Adelante!"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz18h1f7f/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz13j5z8d/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "América Deportiva"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kw81z4/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1pv9ctf/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Azucar"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dc0v7w/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1xw777x/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Carta Semanal"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1sj4cgw/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz10g6cgt/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Revista de Cayo Hueso"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vm75k6/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v14t81/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Chaveta"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1b01t9b/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1dn67nv/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Claridad"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1k66mpx/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz10c6z7p/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "El Comunista"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vq556j/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1z92136/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Revista C.T.C."
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10s2b2m/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gb4rxd/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "El Cubano Libre"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zd0qsq/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz10p3s81/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Revista Cuba y la U.R.S.S."
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14b5tk1/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1pp1kgp/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Cuba y América"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1k95nj6/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1d81f1k/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Dialéctica"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jt1t0f/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz16t3b1r/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Discusión (1880-1882)"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11k21gh/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1f54zmt/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Discusión (1889-1905)"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bg5cxc/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1d816kv/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "El Fortín"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bv9bvc/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz15b2qw0/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "El Mudo"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kw84g3/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1xd3m57/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "El Socialista (1908-1912)"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1xw74gt/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz19d46wg/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "El Socialista (1923)"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zg9bx2/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz15n3g55/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "El Socialista (1933-1934)"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dj81dz/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz11r9gj5/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Fundamentos"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1g18rvx/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bv9hsj/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Ideas Libres"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zk7hvh/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1f787wx/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Kwong Wah Po"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1m63j3n/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz16716hr/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Libertad"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1904x3q/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz15q7qm3/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Mañana"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1w984q5/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1h15123/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Man Sen Yat Po"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n13mc/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1xd3r0n/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Palabra"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1h15rbc/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz10s29nt/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "El Progreso"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1wd6mtk/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x37qxr/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Razón"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14f4j4j/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz15j08xc/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Resistencia"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1mk96gh/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1dc0vmt/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Respuestas"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14f4jd4/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1tx63gf/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Revista Mediodía"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1xh2d96/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cg1tbx/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Revista Social"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jh5s2b/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zg9dcq/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Revolución"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1j12qfg/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x955t3/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Rumbos Nuevos"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1h15wh8/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1md1thn/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Sierra Maestra"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1sx97q2/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cc3nm5/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "El Tipógrafo"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gq9kqb/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1710v9s/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Última Hora"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1n904ph/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz15f1cg4/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Última Noticia"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1pz7wf0/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1xw7d9w/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Unión del Marino"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1933npp/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cw1t5t/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Vanguardia"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1j70bcb/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c56f5x/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Vanguardia Obrera"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dr5pw1/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1w69f7z/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Via Libre (1911)"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1pg4m54/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1201dwh/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Via Libre (1919)"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1nk68hz/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ns3pdh/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Villareño"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1tb42dh/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    }
+  ]
+}
