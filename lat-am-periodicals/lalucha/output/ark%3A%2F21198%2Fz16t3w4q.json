@@ -1,0 +1,692 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://test.ingest.iiif.library.ucla.edu/collections/ark%3A%2F21198%2Fz16t3w4q",
+  "type" : "Collection",
+  "label" : {
+    "none" : [
+      "La Lucha"
+    ]
+  },
+  "behavior" : [
+    "multi-part"
+  ],
+  "thumbnail" : [
+    {
+      "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13234dp%2FSuPGMNuqb/full/!200,200/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg"
+    }
+  ],
+  "metadata" : [
+    {
+      "label" : {
+        "none" : [
+          "Repository"
+        ]
+      },
+      "value" : {
+        "none" : [
+          "Instituto de Historia de Cuba"
+        ]
+      }
+    }
+  ],
+  "items" : [
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1995hg5/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1886"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1f2276z%2FUEPGS6FV3/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz15j4rrf/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1887"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1905c8q%2FuH1vnmHEc/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz11s4102/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1888"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1xw7tb9%2FaF1XJSC8Q/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x13hhp/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1889"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1c56vfg%2FfcjpEJkZ8/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1s82rtd/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1890"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1rv3xb4%2F23EeWkaWa/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1nm0qgz/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1891"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1b02djw%2FVOvp94fYS/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ht9zs4/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1892"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1qr85v9%2Fkjy3wnrtH/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1d2973z/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1893"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t18cdn%2Fyhn2AuiKl/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1898gc7/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1894"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vt51ww%2FM1V8GXXEM/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz14j7qm2/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1895"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1km2mk6%2FNNMpqImjH/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz10s6zwb/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1896"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11k2kmx%2Fsb0B4dElY/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1w16gdr/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1897"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15j0r4v%2F65qQKauzD/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1rc4f3r/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1898"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1sb7fmk%2FfNMxQ9vSG/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1mm3pdg/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1899"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz174606d/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gv2xpr/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1900"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz19s50z2%2FhzORyw9fb/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c325x8/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1901"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1b88j3r%2FChtctWRMM/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz17b1f5h/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1902"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16q568z%2FF9JGv5i0k/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz13k0pfs/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1903"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1642zss%2Fnt5lNbzqi/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zt060b/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1904"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1f227r4%2F5HERe1hT5/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v484pp/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1905"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1xq0f1b%2FRJMBAYd3P/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1qc7d0t/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1907"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz19w3qn0%2FhuvozAuQC/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1km6n83/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1908"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14j3q82%2F4cq08xk58/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1fv5whx/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1909"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bp3bzq%2FJqbnrs1hF/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1b354rf/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1910"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11k2kxz%2FpfDusFOX9/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz16b4d14/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1911"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz19w3qpf%2Fg2y5lO8S8/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz12k3nbv/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1914"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kt01rq%2Fuiu5XYbkY/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1xx1v8w/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1915"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1wt23f2%2FVipRRccA9/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t513k9/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1916"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bs22dw%2FSxHNQN9kl/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1pd0bvk/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1917"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1xq0f8g%2F1jMMLj7SG/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1jm9m4q/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1918"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1380k0m%2Fdnc595iMI/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1dv8vcj/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1919"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11v8q9k%2FkcL3mMFVL/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz19383nh/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1921"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16x2mc6%2FHo5fqdgtA/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz15b7bxs/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1923"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14t9tq5%2FHv5h0jD9x/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz11p59n7/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1924"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ck1ptk%2FUsHd1KGyd/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1wx4t6d/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1925"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16x2mgj%2FZs8vElGN4/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1s542gc/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1926"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vm7nnw%2FGTSZlQOU0/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1nd39pr/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1927"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13235cn%2FteDDTf1oC/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1hn2jxk/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1928"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz17h4v20%2FPk2QKk6ZQ/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cw1t68/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1929"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1fz0m01%2Fu2kovjOgI/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz18412hp/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1930"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1f79p3c%2FgkUGYNf3q/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz14f9164/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "La Lucha, 1931"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1h73rdk%2FBv16GfYJW/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    }
+  ]
+}
