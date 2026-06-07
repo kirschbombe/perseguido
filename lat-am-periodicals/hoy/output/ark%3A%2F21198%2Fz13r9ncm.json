@@ -1,0 +1,404 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://test.ingest.iiif.library.ucla.edu/collections/ark%3A%2F21198%2Fz13r9ncm",
+  "type" : "Collection",
+  "label" : {
+    "none" : [
+      "Noticias de Hoy"
+    ]
+  },
+  "behavior" : [
+    "multi-part"
+  ],
+  "thumbnail" : [
+    {
+      "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1qk1kjv%2FKql5NQRpB/full/!200,200/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg"
+    }
+  ],
+  "metadata" : [
+    {
+      "label" : {
+        "none" : [
+          "Repository"
+        ]
+      },
+      "value" : {
+        "none" : [
+          "Instituto de Historia de Cuba"
+        ]
+      }
+    }
+  ],
+  "items" : [
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz18d75qn/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1938"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1j42vw0%2Fd3Hc8XHju/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz14r54f3/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1939"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1r82hjm%2FvnXj9Qu3s/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1104cr4/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1940"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cg3sg2%2FmQlCpIGhm/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1w73w7d/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1941"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1d2611f%2FtEj0xTigx/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1rg34gm/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1942"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13z2939%2F6aSUcUt0s/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1mq2cqf/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1943"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14v0mtz%2F8AU1TjEGD/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gz1n1k/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1944"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1r53t83%2FrmnAtww6g/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c60wbm/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1945"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1d54qgt%2FpZzVeRueQ/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz17h8v0m/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1946"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1mh1s2f%2FTmfXfLwDB/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz13r839q/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1947"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1352p11%2FY7wqY7wyl/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1007bk9/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1948"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1w138kc%2FzZ30dBdhk/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v76v2k/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1949"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1tj2qc7%2FVLVQpRmjs/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1qg63b7/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1950"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz18958mr%2F59xS2naRI/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1kq5bnz/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1951"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1255mxp%2FtsvHajLGH/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1fz4kx7/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1952"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1sb88g3%2FB4VpJR7SE/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1b92jmj/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1953"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1qk1m1j%2FyVwi8rkRO/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz16j1sx8/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1959"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jb096q%2FLLe6EOOFm/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz12s124f/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1960"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11v9hvn%2FedbNPyoYr/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1z10jmm/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1961"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1rn7brx%2FZhgRcNzWx/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t79swb/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1962"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1k1177x%2FkKEfEtDie/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1pg926v/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1963"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1m36zsp%2FOkk6O8TXf/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1jt70wf/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1964"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz19w4jmv%2F6wrF1xZzw/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    },
+    {
+      "id" : "https://test.ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1f2685f/manifest",
+      "type" : "Manifest",
+      "label" : {
+        "none" : [
+          "Hoy, 1965"
+        ]
+      },
+      "thumbnail" : [
+        {
+          "id" : "https://iiif.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1wm5hjf%2FSw49utOPn/full/!200,200/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg"
+        }
+      ]
+    }
+  ]
+}
